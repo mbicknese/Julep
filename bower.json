@@ -12,6 +12,8 @@
   "description": "A Bourbon based SASS library to quickly get you started on your project.",
   "main": "",
   "dependencies": {
+    "bourbon": "^4.2.6",
+    "neat": "^1.7.4"
   },
   "keywords": [
     "Bourbon",
