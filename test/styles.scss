@@ -1,0 +1,8 @@
+@import "../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss";
+@import "../src/_julep.scss";
+@import "../bower_components/neat/app/assets/stylesheets/_neat.scss";
+
+body {
+  @include outer-container;
+  font-family: $helvetica;
+}

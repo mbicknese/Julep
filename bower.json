@@ -1,0 +1,31 @@
+{
+  "name": "Julep",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mbicknese/Julep",
+  "authors": [
+    "Maarten Bicknese <maarten@mindgame.nl>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mbicknese/Julep.git"
+  },
+  "description": "A Bourbon based SASS library to quickly get you started on your project.",
+  "main": "",
+  "dependencies": {
+    "bourbon": "^4.2.6",
+    "neat": "^1.7.4"
+  },
+  "keywords": [
+    "Bourbon",
+    "SASS",
+    "Mixin",
+    "Framework",
+    "Prototype"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
